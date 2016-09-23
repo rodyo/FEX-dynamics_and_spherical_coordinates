@@ -1,3 +1,18 @@
+% Please report bugs and inquiries to:
+%
+% Name       : Rody P.S. Oldenhuis
+% E-mail     : oldenhuis@gmail.com    (personal)
+%              oldenhuis@luxspace.lu  (professional)
+% Affiliation: LuxSpace s�rl
+% Licence    : BSD
+
+
+% If you find this work useful, please consider a donation:
+% https://www.paypal.me/RodyO/3.5
+
+
+
+
 % System I ("Terran"): 
 % ------------------------------------------------------------
 % XYZ right-handed system
